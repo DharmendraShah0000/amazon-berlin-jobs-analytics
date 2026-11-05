@@ -1,0 +1,4 @@
+metric,value,unit,observed_on,source,note
+Berlin job listings shown on Amazon.jobs,146,listings,2026-11-05,https://www.amazon.jobs/en/search?country=DEU&invalid_location=false&loc_query=Berlin%2C+Deutschland&region=Berlin,Dynamic search-page count at observation time.
+AWS team listings shown in Berlin filter,68,listings,2026-11-05,https://www.amazon.jobs/en/search?country=DEU&invalid_location=false&loc_query=Berlin%2C+Deutschland&region=Berlin,Dynamic team-filter count at observation time.
+Software Development category listings shown in Berlin filter,21,listings,2026-11-05,https://www.amazon.jobs/en/search?category%5B%5D=software-development&country=DEU&distanceType=Mi&loc_query=Germany&radius=24km&result_limit=10,Filtered search count at observation time.
